@@ -1,0 +1,2 @@
+Blackjack Project - Part of Unit 6 Labs
+Fully playable 1-player Blackjack game against the computer in the terminal
